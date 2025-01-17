@@ -505,6 +505,15 @@
         <mxCell id="aODJdHS8t_MNUbrkNVu9-134" value="If don&#39;t require&lt;div&gt;offline provisioning&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="1803" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aODJdHS8t_MNUbrkNVu9-135" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="aODJdHS8t_MNUbrkNVu9-105" target="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1500" as="sourcePoint" />
+            <mxPoint x="300" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aODJdHS8t_MNUbrkNVu9-136" value="NFC Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1456" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
