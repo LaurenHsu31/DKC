@@ -514,6 +514,9 @@
         <mxCell id="aODJdHS8t_MNUbrkNVu9-136" value="NFC Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="1456" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aODJdHS8t_MNUbrkNVu9-137" value="Delete Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="416" y="1160" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
